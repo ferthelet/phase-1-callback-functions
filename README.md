@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Understand that we can pass functions as arguments in JavaScript
-- Define callback functions
+- Understand that we can pass functions as arguments in JavaScript.
+- Define callback functions.
 
 ## Passing Functions as Arguments
 
